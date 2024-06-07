@@ -1,5 +1,3 @@
-//Código com erro na parte de divisão da média
-
 package ArraysVetores;
 
 import java.util.Scanner;
